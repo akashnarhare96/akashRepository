@@ -3,9 +3,12 @@
 
 - git init = to initialize
 - git status = return status
+- git status -s
 
 
 * status - untracked, unmodified, modified, staged
+ 
+
 
  
 - when file is added to staged area color is green
@@ -28,5 +31,12 @@
 
 - clear = clear console
 
-- 
+
+-git diff - compare working tree to staging area
+- git diff -- stage - compare staging area to last commit
+
+- touch filename.exe - create new file
+
+- git rm filename- removes file from staging area and harddisk
+- gir rm --cached  filename - remove file from staging area only
 
