@@ -13,11 +13,16 @@
 -- to start initial tracking of project need to commit(initial commit)
 
 - git add file.txt = to staging area
-- git commit  = commit to git by opening vim editor
 - git add -A = to put files in staging area
+- git add .
 
+- git commit  = commit to git by opening vim editor
 - git commit -m "message" = will not open vim editor
 
 - git checkout file.txt = will rollback previous changes
+- git checkout -f  = will rollback all file to previous change
+
+
+
 
 hello akash
