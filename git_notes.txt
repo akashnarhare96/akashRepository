@@ -18,4 +18,6 @@
 
 - git commit -m "message" = will not open vim editor
 
+- git checkout file.txt = will rollback previous changes
 
+hello akash
