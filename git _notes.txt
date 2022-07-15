@@ -10,6 +10,12 @@
  
 - when file is added to staged area color is green
 
--- to start initial tracking of project need to commit
-- git commit 
+-- to start initial tracking of project need to commit(initial commit)
+
+- git add file.txt = to staging area
+- git commit  = commit to git by opening vim editor
+- git add -A = to put files in staging area
+
+- git commit -m "message" = will not open vim editor
+
 
