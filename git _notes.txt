@@ -1,0 +1,14 @@
+- git config --global user.name akash
+- git config --global user.email akashnarhare96@gmail.com
+
+- git init = to initialize
+- git status = return status
+
+
+* status - untracked, unmodified, modified, staged
+
+ 
+
+
+
+
