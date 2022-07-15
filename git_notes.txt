@@ -12,8 +12,8 @@
 
 -- to start initial tracking of project need to commit(initial commit)
 
-- git add file.txt = to staging area
-- git add -A = to put files in staging area
+- git add file.txt = to put staging area
+- git add -A = to put all files in staging area
 - git add .
 
 - git commit  = commit to git by opening vim editor
@@ -22,7 +22,13 @@
 - git checkout file.txt = will rollback previous changes
 - git checkout -f  = will rollback all file to previous change
 
+- git log - return records of commit
+- git log -p -5 = return last 5 commit records 
+- press q to exit when git log is used
 
+- clear = clear console
+
+- 
 
 
 hello akash
