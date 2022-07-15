@@ -3,7 +3,10 @@
 
 - git init = to initialize
 - git status = return status
-- git status -s
+- git status -s = MM git_notes.txt
+
+-- 1 m means modified in staged area and 2 m means modified in working file 
+
 
 
 * status - untracked, unmodified, modified, staged
